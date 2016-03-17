@@ -1,0 +1,14 @@
+c:\users\buruk61\documents\visual studio 2010\Projects\graf\graf\bin\Debug\graf.exe
+c:\users\buruk61\documents\visual studio 2010\Projects\graf\graf\bin\Debug\graf.pdb
+c:\users\buruk61\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\graf.Properties.Resources.resources
+c:\users\buruk61\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\graf.csproj.GenerateResource.Cache
+c:\users\buruk61\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\graf.exe
+c:\users\buruk61\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\graf.pdb
+c:\users\buruk61\documents\visual studio 2010\Projects\graf\graf\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+D:\YEDEK\Documents\Visual Studio 2010\Projects\graf\graf\obj\x86\Debug\graf.exe
+D:\YEDEK\Documents\Visual Studio 2010\Projects\graf\graf\obj\x86\Debug\graf.pdb
+D:\YEDEK\Documents\Visual Studio 2010\Projects\graf\graf\bin\Debug\graf.exe
+D:\YEDEK\Documents\Visual Studio 2010\Projects\graf\graf\bin\Debug\graf.pdb
+D:\YEDEK\Documents\Visual Studio 2010\Projects\graf\graf\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+D:\YEDEK\Documents\Visual Studio 2010\Projects\graf\graf\obj\x86\Debug\graf.Properties.Resources.resources
+D:\YEDEK\Documents\Visual Studio 2010\Projects\graf\graf\obj\x86\Debug\graf.csproj.GenerateResource.Cache
